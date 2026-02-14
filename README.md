@@ -84,7 +84,4 @@ The image will now be running, with the following ports exposed:
 - **6878**: AceStream engine port. Docs for command line arguments and debugging
 can be found [here][acestream]
 
-
-[acestream]: https://docs.acestream.net/en/developers/
-[#5]: https://github.com/martinbjeldbak/acestream-http-proxy/issues/5
-[#13]: https://github.com/martinbjeldbak/acestream-http-proxy/issues/13
+88888
